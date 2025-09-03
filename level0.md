@@ -1,12 +1,13 @@
 # Level 0
 
-# Goal: Log into the game using SSH
+## Goal: Log into the game using SSH
 
-SSH Information:
-Host: bandit.labs.overthewire.org
+### SSH Information:
+
+Host: bandit.labs.overthewire.org␣␣
 Port: 2220
 
-Solution:
+## Solution:
 Used ```bash ssh -p 2220 bandit0@bandit.labs.overthewire.org```
 
 ## Thought Process:
