@@ -4,7 +4,7 @@
 
 ### SSH Information:
 
-Host: bandit.labs.overthewire.org␣␣
+Host: bandit.labs.overthewire.org<br>
 Port: 2220
 
 ## Solution:
