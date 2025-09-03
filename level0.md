@@ -7,7 +7,7 @@ Host: bandit.labs.overthewire.org
 Port: 2220
 
 Solution:
-Used ssh -p 2220 bandit0@bandit.labs.overthewire.org
+Used '''ssh -p 2220 bandit0@bandit.labs.overthewire.org'''
 
 Thought Process:
 - ssh command is the command which is used to enter an SSH.
