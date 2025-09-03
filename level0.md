@@ -12,5 +12,5 @@ Port: 2220
 
 ## Thought Process:
 - ```ssh``` command is the command which is used to enter an SSH.
-- ```-p``` used as it is used to input a port after it, 2220 being the port.
+- ```-p``` used as it is used to input a port after it, ```2220``` being the port.
 - ```bandit0@bandit.labs.overthewire.org``` was used as the format is username@host
