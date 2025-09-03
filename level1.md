@@ -6,3 +6,6 @@
 1. In home directory I used ```bash ls``` to see the files in the directory.
 2. Then I used ```bash cat readme``` to view the contents of the readme file.
 3. I then copied the password which was in the readme file and used this file when logging into bandit1 user using ```bash ssh -p 2220 bandit1@bandit.labs.overwire.org```.
+
+## Thought Process:
+- If I use ```bash cat``` on the readme file I will be able to few the necessary password.
